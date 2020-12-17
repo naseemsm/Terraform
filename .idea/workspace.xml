@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f18b35f-b9dc-4ebe-bc68-2acfb1892799" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jenkins/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608169195625</updated>
       <workItem from="1608169196750" duration="2676000" />
-      <workItem from="1608172959363" duration="2372000" />
+      <workItem from="1608172959363" duration="2981000" />
     </task>
     <servers />
   </component>
